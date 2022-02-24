@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders conceived and approved by the Committee for the Militia of the county of Middlesex without the lines of communication, directing the severall commanders and officers, &amp;c. in some particulars of consequence, for the better regulating of the regiments to be exercised and trained for service and defence of the said county, &amp;c.</title>
+            <author>City of London (England). Committee for the Militia.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53402</idno>
+            <idno type="STC">Wing O396B</idno>
+            <idno type="STC">ESTC R35083</idno>
+            <idno type="EEBO-CITATION">14988691</idno>
+            <idno type="OCLC">ocm 14988691</idno>
+            <idno type="VID">103025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103025)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders conceived and approved by the Committee for the Militia of the county of Middlesex without the lines of communication, directing the severall commanders and officers, &amp;c. in some particulars of consequence, for the better regulating of the regiments to be exercised and trained for service and defence of the said county, &amp;c.</title>
+                  <author>City of London (England). Committee for the Militia.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: creased and cropped, with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Committee for the Militia.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:103025:1"/>
+            <head>Orders, conceived and approved by the Committee for the <hi>Militia</hi> of the County of <hi>Middleſex,</hi> without the <hi>Lines of Communication, Directing the ſeverall Commanders and Officers, &amp;c. in ſome particulars of conſequence, for the better Regulating of the Regiments to be Exerciſed and Trained for ſervice and defence of the ſaid County, &amp;c.</hi>
+            </head>
+            <p n="1">I. THat the Colonels give order to their Captains, to ſend the Clerks of each Band unto the Church wardens, &amp;c. of every Pariſh within their limits, to take from thence a true copy of their Liſts of able and fit bodies to bare Arms; adding to each Name their qualities and profeſſions, according to their ſe<g ref="char:EOLhyphen"/>verall deſcriptions on the ſaid Pariſh-Liſt of Reſiants from Moneth to Moneth, with the number of Arms ſubſcribed and furniſhed by any of them for the ſervice of the County.</p>
+            <p n="2">II. That the ſeverall Colonels, attended by the Captain and Clerk of each Band, with ſome of the Committee-men of each quarter, do forthwith rectifie and order both the number and perſons, to be Regiſtred under the command of every Captain.</p>
+            <p n="3">III. That the Regiments and Companies be from time to time drawn forth and Exerciſed, according to the Commiſſions of the Colonels and their Captains, in readineſſe for command of higher Authority.</p>
+            <p n="4">IV. That ſince the Conſtitution of the ſaid Bands are in ſpeciall conſideration for the defence of each others perſons and eſtates within the County, and not to be drawn out thereof, but upon reciprocall conſideration with other Counties, for the more generall good, as may ariſe from the care and judgement of higher powers and Authority, unto which all perſons, and every County muſt yield ready obedience. The ſaid Colonels, Captains and Officers, in their faithfull care and diligent proſecution of their Martiall Diſcipline, ſhall nevertheleſſe have regard, That the ſeverall liſted Souldiers be from time to time, rather helped (as far as may conſiſt with their Martiall duties) then hindred in the due proſecution of their ſeverall Vocations, and providence, for their livelyhoods and eſtates.</p>
+            <p n="5">V. That as often as any one or more of the ſaid Bands and Regiments, ſhall be drawn forth for Exerciſe or Employment, within the County, the Com<g ref="char:EOLhyphen"/>mittees of every reſpective Diviſion or Limit, ſhall have warning, and notice before hand, of the times and places of Exerciſe or Employment, where they may be to obſerve, the hopefull encouragement and duty of Officers and Souldiers.</p>
+            <p n="6">VI. That on the dayes of Exerciſe, as well as at other occaſionall opportunities, The Commanders and Officers ſhall inform, and inculcate amongſt the Souldiers, the happy conſequence of their Conſtitution, whereby their perſons, eſtates, and goods, are in more ſecurity then in former times: And that the Exerciſe or Diſcipline, adding confidence to their Courage, will breed delight in their Employment, and by frequent converſation and joyning in affecti<g ref="char:EOLhyphen"/>on to publike good, will increaſe love and kindneſſe between Neighbours, pleaſing to God, and delightfull to all good men, or what elſe of this nature may ariſe from their own conceptions, which may invite or draw on ſuch a love or liking to this Warlike, Manlike Exerciſe, as may hereafter exclude worſe or more impertinent expence of time.</p>
+            <p n="7">VII. That whileſt Souldiers are in the field, either Exerciſing or preparing towards their Rendezvous, no one of them (nor any other) may preſume to break, or in any kinde to interrupt the due Silence, in attending the words of Command, as ſpecially by any bold aſſertions of Exception, nor by any pretence of Propoſition, before leave obtained from the chief Commander on the place, and that he be pleaſed to cauſe Silence proclaimed for that purpoſe (in caſe the buſineſſe will not attend another time:) But for thoſe complaints which they may otherwiſe poſſibly have cauſe to make, they muſt take other time and place to addreſſe themſelves to the next ſuperiour Officers. And in caſe of hard hand, or ſlighting by them, their appeal lies fair and juſtly higher, as to the Colonell or Deputy Lievtenants. The Committee-men being ingaged (in their truſt) to aſſiſt the preferring of the ſame at the firſt fitting opportunitie, and the Secretary for the Regiment to ſolicite on the appealants behalf, whileſt in the mean time (as alwayes) the ſaid Committee-men are to receive re<g ref="char:EOLhyphen"/>ſpect from Officers and Souldiers, equall with their Captains, eſpecially whenſoever they come to view or ſuperintend the Muſters or Exerciſe.</p>
+            <p n="8">VIII. That the ſeverall Captains and Committee-men, within or neer the Limits of each Company, with the approbation of the Colonell, do ſelect and place in chief within their Liſt, the prime men that ſerve with their own Arms, and having alſo found others for their Neighbours. And in the next degree, thoſe that onely finde and wear their own Arms in the field: And next, thoſe moſt recommended for their good and faithfull neighbourly condition: And laſtly, thoſe that ſhall be any wayes thought fit for the Service, of whom there may be beſt hope of their due application.</p>
+            <p n="9">IX. That however the preſcription is, that onely Houſholders ſhould be Liſted on theſe <hi>Trained Bands (the Garriſon of this County)</hi> yet it may be allowed, that every Subſcriber and Furniſher of more then two compleated Arms, ſhall (if he deſire it) have his Meniall ſervant (or Retainer, for whom he will be re<g ref="char:EOLhyphen"/>ſponſible, though no Houſholder) to ſerve with one or more Arms, above the ſaid number of two; which priviledge is alſo allowed to the Colonels and Captains for any, or the whole number of compleated Arms they have provided, or may ſubſcribe and furniſh: being expected, that ſuch Menials or Re<g ref="char:EOLhyphen"/>tainers, ſhall be perſons of ſo fair carriage and demeanor, as may make them worthy of being accounted Gentlemen of the Company.</p>
+            <p n="10">X. That for the bettering of Converſation, and that good Example, which may be contracted and drawn from the meetings at publike Exerciſes, and to ad<g ref="char:EOLhyphen"/>vance the reproof and puniſhment of drunkards, ſwearers, and other perſons of diſturbance. The Martiall of each Company ſhall be aſſiſted in the field, by the Petty Conſtables or Headburroughs, who in number convenient, and of each Captains Limits by turns, ſhall be ſummoned with the Souldiers, to attend the dayes of Exerciſe, &amp;c. as aforeſaid, for the better Ordering of the by-ſtanders or lookers on: and ſhall attach the bodies of all drunkards and ſwearers in ſight, or hearing, or that ſhall be appeached duly, to be expoſed to ſuch Iuſtice, as by the Law of the Land is ordained. But if the offender be a Liſted Souldier, or Officer: The Martiall ſhall ceaſe him in Guard, till he have received puniſhment or acquittall, at the diſcretion and direction of the Captain or chief Commander in the field; which nevertheleſſe, muſt not exempt him from the Legall puniſhment due to all ſuch offenders. And if the ſaid Cap<g ref="char:EOLhyphen"/>tain or chief Commander in the field, finde cauſe of further puniſhment on any Officer or Souldiers, then determined before the Colours going off from the field, the offender ſhall be charged by the Martiall, into the cuſtody of the next Conſtable or Headburrough, to be carried with his accuſation before the next Iuſtice of the Peace, to be proceeded againſt or acquitted, as in juſtice may be requiſite: But if the offence of any Officer or Souldier, be tending to mutiny, or of that kinde which may whol'y concern the Power, Command, Obedience, and Diligence, in the Martiall way. The offender ſhall ſtill be detained, to be delivered over within twenty four hours or leſſe time, into the cuſtodie of the chief Martiall of the Regiment, who ſhall be anſwerable for his forth coming at the appointment of the Deputy Lievtenants, Colonell, and Committee for the Militia, to be proceeded withall in ſuch manner, as may be thought moſt expedient and juſt in the caſe. The Martials Fees, both of the Regiments and Companies, to be appointed or allowed by the Colonels and Captains, till farther direction in that particular.</p>
+            <p n="11">XI. That whatſoever may further ariſe upon ordinary or emergent occaſions, either on the uſuall dayes of Exerciſe, or upon drawing out the Regiments to the confines of the County, or farther from their Limits, is left to the Colonels and their Captains, to be determined under the Rules of War, and Mar<g ref="char:EOLhyphen"/>tiall Diſcipline.</p>
+            <p n="12">XII. That as it may be preſumed and ſo ordered, That no Licenced Victualler do finde leſſe then one compleat Arms towards the Service, for his part (valued by, or in his recognizance:) So ſhall it belong to ſome of them, to be ſelected by the Captain of each Limits, and authorized by Warrant under his hand and Seal, as Sutler, or Provider, for neceſſary wholeſome Bread, Drink, or other convenient Victuals, to be uttered in the fields, principally to furniſh thoſe Souldiers for their Moneys, who cannot without breach of duty, go from their Colours. The ſaid Sutlers or Providers, undertaking and contracting for the wholeſomeneſſe of their Victuall, and to give Meaſure and Weight according to the Law at reaſonable Rates: And in default therein to abide the cenſure of the Committee for the Militia. And if any others ſhall preſume to vent and ſet to ſale, any kinde of Victuall whatſoever, without admiſſion of and under the ſaid Sutler and Provider, who is undertaker in the Service, as aforeſaid, He ſhall be informed againſt by the Martiall of the Company, unt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Committee of the Militia, to be proceeded withall, as they ſhall conceive moſt expedient and juſt.</p>
+            <p n="13">XIII. Laſtly, That conſidering the whole Conſtitution and Charge, proceeds from the moſt generall good affections and eſtates of the County, through t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> providence of the Deputy Lievtenants, and Committee, ſelected and appointed by Ordinance of Parliament. And ſince thereby the ſaid County with<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> the Lines, &amp;c. have had intereſt or reaſonable ſatisfaction in the choice, or recommendation of their Commanders and Officers amongſt themſelves: an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whileſt all Levies, that ſhall be had for any allowance or proviſion of Pay or Ammunition, a benefit ſtill reverts on themſelves with the generall good; an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that even the Trophies and Accompliſhments of the ſaid Commanders and Officers, are defrayed by the County; whereby all and every one from the higheſt to the loweſt, have the more obligation to perform their parts of Service in faithfull Command and moſt due Obedience. Let no man grudge or ſtand upon vain Punctilioes in any caſe, ſince in the moſt Chriſtian generous occaſions, whoſoever ſets his hand or ſhoulder to the work affectionately as he ought. His honour in proportion may be accompted as great, who moves regularly at the loweſt Wheel or Nick, as his that ſtands or works at th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> higheſt of all Motion or Tranſaction for Publike good: which may ſeem to conclude, That all Commands in this way, are as of the whole Commit<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> for the Militia, authorized by Ordinance of Parliament: Wherein every mans unfaithfulneſſe, diſobedience, or neglect, muſt be accounted in proporti<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as againſt the State, and wiſhed happineſſe of the Kingdom.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
